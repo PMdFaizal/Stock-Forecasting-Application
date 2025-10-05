@@ -75,6 +75,7 @@ The app will open in your default web browser.
 ![WhatsApp Image 2025-04-23 at 21 46 05_590ede61](https://github.com/user-attachments/assets/9a1a8ff1-6125-4066-96bf-7e7ab61f7481)
 
 👤 Author:
+
   Faizal P MD
   
   B.Tech CSE 
