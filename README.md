@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22706604/README.md)
 📊 Stock Forecasting Application
 
   > This repository contains a Streamlit-based stock forecasting application built to analyze, visualize, and predict stock performance. It features stock information, price prediction using ARIMA models, return and risk analysis via CAPM, and technical indicator-based insights for smarter investment decisions.
@@ -77,4 +76,5 @@ The app will open in your default web browser.
 
 👤 Author:
   Faizal P MD
+  
   B.Tech CSE 
